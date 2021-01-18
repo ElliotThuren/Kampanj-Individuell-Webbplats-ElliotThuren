@@ -37,3 +37,8 @@ body {
   li {
     color: #ffffff;
   }
+
+  p.thicker {
+    color: #ffffff;
+    font-weight: 2000;
+  }
