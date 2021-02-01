@@ -5,3 +5,5 @@ Jag har kollat på koden på valideringsuppgiften och försökt få ihop något,
 Har kommit lite längre på koden men är lite fasst.
 
 Har fått till det med css, men hållet fortfarande på med bilden.
+
+Jag har lagt till font, ikon, kontakter och gjort ett användbarhetstest med klasskamrater.
