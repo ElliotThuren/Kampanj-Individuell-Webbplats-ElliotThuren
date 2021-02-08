@@ -8,6 +8,11 @@ body {
     position: fixed;
     right: 0;
   }
+
+  #covbild {
+    position: fixed;
+    left: 0;
+  }
   
   main, header, footer {
     width: 80%;
@@ -24,7 +29,8 @@ body {
   
   h1 {
     font-size: 3rem;
-    color: #ffffff;
+    color: #000000;
+    background-color: #ff0000;
   }
   
   h2 {
